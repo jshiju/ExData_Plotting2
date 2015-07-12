@@ -4,7 +4,7 @@
 # @date     : 12/JUL/15                                                                 #
 # @desc     : A plot showing the total PM2.5 emission trend in Baltimore, MD and Los    #
 #             Angeles County, California from motor vehicle sources for years 1999,     #
-#             2002, 2005, and 2008 based on National Emissions Inventory(NEI) database. #                                                                  #
+#             2002, 2005, and 2008 based on National Emissions Inventory(NEI) database. #
 #---------------------------------------------------------------------------------------#
 
 
